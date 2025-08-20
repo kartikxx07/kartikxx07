@@ -54,7 +54,7 @@ Researching methods to combine quantum computing principles with AGI architectur
 
 GitHub: github.com/kartikxx07
 
-LinkedIn: linkedin.com/in/kartikayluthra
+LinkedIn: https://www.linkedin.com/in/kartikay-luthra-656592229/
 
 Email: kartikay.luthra@example.com
 
