@@ -1,75 +1,77 @@
-## Hi there 👋, I'm Kartikay Luthra
-AI & Quantum Research Enthusiast | Postgraduate in AI & ML | AGI & Multimodal Explorer
+# 👋 Hi there, I'm Kartikay Luthra  
 
-### 🧠 About Me
+**AI & ML Engineer | Postgraduate in Artificial Intelligence @ Queen Mary University of London**  
+🔭 Focused on Applied Machine Learning · Multimodal Learning · NLP · Deep Learning · Data Science  
 
-I am a passionate researcher and practitioner in the field of Artificial Intelligence and Machine Learning, currently pursuing my postgraduate studies at Queen Mary University of London. My core interests lie at the intersection of AGI (Artificial General Intelligence), multimodal learning, and quantum computing for AI.
+---
 
-I love exploring how fundamental physics concepts can inform and improve AI models, and vice versa — applying AI to tackle complex quantum problems. My work spans both theoretical research and hands-on implementation of advanced AI pipelines.
+## 🧠 About Me  
+I am a passionate **AI researcher and practitioner**, currently pursuing my postgraduate studies in **Artificial Intelligence**.  
+My focus is on designing and implementing **practical, scalable AI systems** that combine:  
 
-### 🚀 Research & Interests
+- **Multimodal Learning** – integrating text, vision, and audio for richer contextual reasoning  
+- **Natural Language Processing (NLP)** – building pipelines for sentiment analysis, misinformation detection, and conversational agents  
+- **Deep Learning** – developing architectures for vision, sequence modeling, and generative tasks  
+- **Time-Series Forecasting & Data Science** – predictive analytics and statistical modeling  
+- **MLOps & Deployment** – production-ready systems with APIs, Docker, and backend integration  
 
-#### Artificial General Intelligence (AGI):
-Investigating approaches to build AI systems with broad, human-like generalization capabilities.
+---
 
-#### Multimodal Learning:
-Designing models that integrate text, vision, and audio to enhance contextual understanding and reasoning.
+## 🚀 Areas of Interest  
+- 🤖 **Applied Machine Learning** – deployment-ready pipelines & production systems  
+- 🎥 **Multimodal AI** – integrating vision, text, and audio  
+- 🗣️ **NLP & LLMs** – transformers, embeddings, and fine-tuning  
+- 📈 **Time-Series & Forecasting** – predictive analytics and modeling  
+- 📊 **Data Science & Analysis** – statistical modeling, exploratory data analysis, and visualization  
+- 🛠️ **MLOps Practices** – APIs, Docker, and efficient deployment  
 
-#### Quantum Computing & AI:
-Exploring how quantum algorithms can accelerate AI training and inference, and leveraging AI for quantum simulations and problem-solving.
+---
 
-#### Machine Learning & Deep Learning:
-Implementing cutting-edge architectures in NLP, computer vision, and time-series forecasting.
+## 💻 Skills  
 
-#### Research in Physics-informed ML:
-Bridging concepts from physics to improve model efficiency, interpretability, and robustness.
+**Programming Languages**  
+Python · R · Java · SQL  
 
-### 💻 Skills
+**AI / Machine Learning**  
+Deep Learning · NLP · Reinforcement Learning · Graph Neural Networks · Time-Series Forecasting  
+TensorFlow · PyTorch · Hugging Face Transformers  
 
-Programming & Tools: Python, R, TensorFlow, PyTorch, Hugging Face Transformers, FastAPI, Docker, Git
+**Data Analysis & Engineering**  
+Pandas · NumPy · Scikit-learn · Data Visualization (Matplotlib, Seaborn, Plotly)  
+ETL Pipelines · APIs · Data Preprocessing · Sentiment Analysis  
 
-Machine Learning: Deep Learning, NLP, Time-Series Forecasting, Reinforcement Learning, Graph Neural Networks
+**Backend & Deployment**  
+Spring Boot · FastAPI · Docker · REST APIs  
 
-Quantum & Physics Integration: Quantum simulations, physics-informed ML, variational algorithms
+**Databases & Tools**  
+PostgreSQL · Git · GitHub · Linux · MLOps Practices  
 
-Data Engineering: APIs, ETL pipelines, data preprocessing, sentiment analysis, news & time-series data
+---
 
-### 📂 Projects
+## 📂 Key Projects  
 
-Here are some highlights of my work:
+🔹 [**Social Media Misinformation Detection using AI**](https://github.com/kartikxx07/Social-Media-Misinformation-Detection-using-AI)  
+*NLP pipeline for detecting fake news content across social media platforms.*  
 
-#### News Sentiment Analysis Pipeline:
-Built a Python pipeline using FastAPI for sentiment analysis of news data with dynamic data preprocessing and ML models.
+🔹 [**Anthropic Economic Index Analysis**](https://github.com/kartikxx07/Anthropic-Economic-Index-Analysis)  
+*Time-series and data-driven analysis of economic indicators using statistical & ML models.*  
 
-#### NYT Connections Bot:
-Developed an interactive FastAPI + React app generating word connections using NYT datasets.
+🔹 [**Sentiment Analysis of News Articles (Headlines & Content)**](https://github.com/kartikxx07/Sentiment-Analysis-of-News-Articles-headlines-and-content-)  
+*Pipeline for sentiment classification of financial and news articles with preprocessing & ML models.*  
 
-#### Time Series Analysis of US Economic Data:
-Conducted time-series analysis and forecasting in R, leveraging ARIMA, ETS, and advanced visualization techniques.
+🔹 [**Quantum Mechanics using Neural Network Quantum States**](https://github.com/kartikxx07/Quantum-mechanics-using-Neural-Network-Quantum-States)  
+*Exploring quantum state approximations with deep learning architectures.*  
 
-#### Quantum & AGI Explorations:
-Researching methods to combine quantum computing principles with AGI architectures for scalable, multimodal learning.
+🔹 [**NYT Connections Solver Bot**](https://github.com/kartikxx07/NYT-Connections-Solver-Bot-)  
+*Interactive FastAPI + React bot for solving the NYT “Connections” puzzle using NLP techniques.*  
 
-### 🌐 Online Presence
+---
 
-GitHub: github.com/kartikxx07
+## 🌐 Connect with Me  
+- 🔗 [GitHub](https://github.com/kartikxx07)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kartikay-luthra-656592229/)  
+- 📧 [Email](mailto:kartikay.luthra@example.com)  
+- 🌍 [Portfolio](https://kartikayluthra.vercel.app/)  
 
-LinkedIn: https://www.linkedin.com/in/kartikay-luthra-656592229/
+---
 
-Email: kartikay.luthra@example.com
-
-Portfolio: https://kartikayluthra.vercel.app/
-
-### 🎯 Future Roadmap
-
-Advance research in AGI and multimodal learning, bridging theoretical and practical implementations.
-
-Explore quantum-assisted AI models for faster training and novel algorithms.
-
-Contribute to open-source AI projects in NLP, vision, and time-series domains.
-
-Publish papers combining physics-informed AI and quantum computing for real-world applications.
-
-### 🤝 Let’s Connect
-
-I am open to research collaborations, internships, and challenging AI projects. Feel free to reach out via LinkedIn or email.
