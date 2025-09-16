@@ -70,7 +70,7 @@ PostgreSQL · Git · GitHub · Linux · MLOps Practices
 ## 🌐 Connect with Me  
 - 🔗 [GitHub](https://github.com/kartikxx07)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kartikay-luthra-656592229/)  
-- 📧 [Email](mailto:kartikay.luthra@example.com)  
+- 📧 [Email](kartikluthra2020@gmail.com)  
 - 🌍 [Portfolio](https://kartikayluthra.vercel.app/)  
 
 ---
