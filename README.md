@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Kartikay Luthra  
+![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/kartikayluthra97?font=Roboto%2C+Arial%2C+Helvetica%2C+sans-serif&template=minimal)
 
 **AI & ML Engineer | Postgraduate in Artificial Intelligence @ Queen Mary University of London**  
 🔭 Focused on Applied Machine Learning · Multimodal Learning · NLP · Deep Learning · Data Science  
@@ -74,4 +75,4 @@ PostgreSQL · Git · GitHub · Linux · MLOps Practices
 - 🌍 [Portfolio](https://kartikayluthra.vercel.app/)  
 
 ---
-![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/kartikayluthra97)
+
