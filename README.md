@@ -55,7 +55,7 @@ PostgreSQL · Git · GitHub · Linux · MLOps Practices
 *NLP pipeline for detecting fake news content across social media platforms.*  
 
 🔹 [**Anthropic Economic Index Analysis**](https://github.com/kartikxx07/Anthropic-Economic-Index-Analysis)  
-*Time-series and data-driven analysis of economic indicators using statistical & ML models.*  
+*Analysing AI Adoption patters from professionals over 4M+ Claude conversations.*  
 
 🔹 [**Sentiment Analysis of News Articles (Headlines & Content)**](https://github.com/kartikxx07/Sentiment-Analysis-of-News-Articles-headlines-and-content-)  
 *Pipeline for sentiment classification of financial and news articles with preprocessing & ML models.*  
